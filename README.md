@@ -1,4 +1,4 @@
 # firstuse-demo
 My first git repository
 <br>
-Author - Sugato Chakraborty
+Author - Sugato Chakraborty (Self Learning)
